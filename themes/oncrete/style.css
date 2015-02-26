@@ -1,0 +1,134 @@
+/*
+Theme Name: Child theme of Primobiz
+Theme URI: http://oncreteart.com
+Description: This is a custom child theme for Oncrete Art
+Author: Primo Motif ad & design agency
+Author URI: http://primomotif.com
+Template: primobiz
+Version: 0.1
+*/
+
+/*@import url("../primobiz/style.css");*/
+
+/* 
+Class Table of Contents
+
+1. Global Elements
+2. Header Elements
+3. Navigation Elements
+4. Structure Elements
+5. Font Elements
+*/
+
+/*----------------------------------
+1. Global Elements
+-----------------------------------*/
+
+.header{
+
+}
+.pre-footer{
+
+}
+.footer{
+
+}
+
+/*----------------------------------
+2. Header Elements
+-----------------------------------*/
+
+.logo{}
+
+/*----------------------------------
+3. Navigation Elements
+-----------------------------------*/
+
+.nav-wrapper{
+
+}
+nav.navbar{
+
+}
+nav.navbar-default{
+	
+}
+nav.navbar-default ul{
+
+}
+nav.navbar-default ul li{
+
+}
+nav.navbar-default ul li a{
+
+}
+
+/*----------------------------------
+4. Structure Elements
+-----------------------------------*/
+
+.intro{
+	
+}
+.main .content-wrapper{
+
+}
+ul.uus-posts-wrapper{
+
+}
+ul.uus-posts-wrapper li{
+
+}
+.uus-flat-text-wrapper{
+
+}
+.uus-posts-wrapper li:hover .uus-flat-text-wrapper{
+
+}
+
+.uus-posts-wrapper .uus-flat-text-wrapper{
+
+}
+
+#gmap{
+
+}
+.gmnoprint div img{
+
+}
+.slider ul{
+	
+}
+.slider ul li{
+
+}
+
+/*----------------------------------
+5. Font Elements
+-----------------------------------*/
+
+.intro pre{
+
+}
+.intro h1{
+
+}
+.intro p{
+}
+.pre-footer h3{
+
+}
+.pre-footer p{
+
+}
+.footer p{
+
+}
+
+.uus-posts-wrapper .uus-flat-text-wrapper h3{
+
+}
+
+.uus-posts-wrapper .uus-flat-text-wrapper p{
+
+}
