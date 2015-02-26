@@ -31,7 +31,7 @@
 					<!-- logo -->
 					<div class="col-md-4 logo">
 						<a href="">
-							<img src="" alt="Peccole Neveda Corporation"/>
+							<img src="" alt=""/>
 						</a>
 					</div>
 					<!-- /logo -->
