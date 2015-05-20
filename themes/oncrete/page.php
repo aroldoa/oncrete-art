@@ -1,7 +1,6 @@
 <?php get_header(); ?>
 <main role="main" class="main">
 <?php
-
 if( is_front_page() ){
 	echo '<div class="container-fluid content-wrapper">';
 }else{
@@ -24,18 +23,5 @@ if( is_front_page() ){
 	</section>
 <!-- /section -->
 	</div><!-- /container -->
-
-<?php
-
-if( is_front_page()){
-	echo '
-		<div class="map-area-wrapper">
-			<div id="gmap"></div>
-			<div class="locations-box-wrapper clearfix">';
-			if(!function_exists('dynamic_sidebar') || !dynamic_sidebar('locations-box'));				
-	echo '</div>
-		</div>';
-}
-?>
 </main>
 <?php get_footer(); ?>

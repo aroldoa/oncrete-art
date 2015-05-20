@@ -9,7 +9,7 @@
 				<div class="col-lg-11">
 				<!-- copyright -->
 				<p class="copyright">
-					&copy; Copyright <?php echo date('Y'); ?>  Peccole Nevada Corporation<br/>
+					&copy; Copyright <?php echo date('Y'); ?> Oncrete Art<br/>
 				</p>
 				</div><!-- /copyright -->
 
